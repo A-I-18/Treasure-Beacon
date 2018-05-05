@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- https://github.com/CardinalNow/Android-CircleProgressIndicator -->
+    <dimen name="circleProgressRadius">150dp</dimen>
+    <dimen name="circleProgressThickness">15dp</dimen>
+    <dimen name="curvedTextViewTextSize">15sp</dimen>
+    <dimen name="curvedTextRadius">70dp</dimen>
+    <dimen name="curvedTextPadding">3dp</dimen>
+</resources>
